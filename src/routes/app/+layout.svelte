@@ -1,5 +1,4 @@
 <script>
-	import { showToast } from "$lib/toast";
 </script>
 
 <!-- Sidebar Toggle -->

@@ -9,7 +9,7 @@
 </script>
 
 <div
-	class="absolute top-0 end-0 m-4 space-y-3 w-80 overflow-y-auto max-h-[17.5rem]"
+	class="absolute top-0 end-0 m-4 mt-16 lg:mt-6 space-y-3 w-80 overflow-y-auto max-h-[17.5rem] z-50"
 >
 	{#each $toasts as toast}
 		<!-- Toast -->
